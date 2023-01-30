@@ -1,0 +1,17 @@
+{
+  "name": "miaoucraft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mineflayer": "^4.8.0",
+    "prismarine-viewer": "^1.23.0",
+    "ts-node": "^10.9.1"
+  }
+}
